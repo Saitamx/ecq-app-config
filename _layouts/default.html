@@ -1,0 +1,22 @@
+<!-- C:\ecoquerai\ecq-app-config\_layouts\default.html -->
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+
+    <!-- Reset & custom styles -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/custom.css' | relative_url }}"
+    />
+  </head>
+
+  <body>
+    <main class="container">{{ content }}</main>
+  </body>
+</html>

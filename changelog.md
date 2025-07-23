@@ -1,6 +1,6 @@
 ---
 title: "Novedades de EcoquerAI"
-layout: default      # usa el theme por defecto de GitHub Pages
+layout: default
 ---
 
 <div align="center">
@@ -17,6 +17,7 @@ Para actualizar, abre la app · **Menú → Información → Actualizar**.
 ---
 
 ## 📌 Versión 1.6.9 · 24 jul 2025
+
 | Mejora | Detalle |
 | ------ | ------- |
 | 🗺️ **Mapa interactivo** | Explora más de 30 spots de calistenia con fotos y detalles. |
@@ -26,6 +27,7 @@ Para actualizar, abre la app · **Menú → Información → Actualizar**.
 ---
 
 ## 📦 Versión 1.6.8 · 10 jul 2025
+
 | Mejora | Detalle |
 | ------ | ------- |
 | 🍽️ **Detección de alimentos 2.0** | Mejor precisión en macros y sellos de advertencia. |
@@ -35,7 +37,7 @@ Para actualizar, abre la app · **Menú → Información → Actualizar**.
 
 <div align="center">
 
-### ¿Sugerencias o problemas?
+### ¿Sugerencias o problemas?  
 **[Envíanos feedback](mailto:matias.troncoso.campos@gmail.com)** ·  
 **[Síguenos en Instagram](https://www.instagram.com/ecoquerai)** para ver las próximas sorpresas.
 
