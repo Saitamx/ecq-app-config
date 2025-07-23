@@ -1,15 +1,42 @@
 ---
 title: "Novedades de EcoquerAI"
-layout: default             
+layout: default      # usa el theme por defecto de GitHub Pages
 ---
 
-# Novedades de EcoquerAI
+<div align="center">
 
-## 1.6.9 · 24 jul 2025
-- 🗺️ Nuevo **mapa** con spots de calistenia  
-- 📍 Permisos de **localización** refinados  
-- 🖌️ Correcciones de UI y rendimiento
+<img width="120" src="https://raw.githubusercontent.com/Saitamx/ecq-app-config/main/ecq-logo.png" alt="EcoquerAI logo">
 
-## 1.6.8 · 10 jul 2025
-- 🍽️ Mejoras en cámara y detección de alimentos  
-- 🚀 Actualización silenciosa OTA
+# 🚀 Historial de cambios
+
+¡Descubre las mejoras y funciones más recientes!  
+Para actualizar, abre la app · **Menú → Información → Actualizar**.
+
+</div>
+
+---
+
+## 📌 Versión 1.6.9 · 24 jul 2025
+| Mejora | Detalle |
+| ------ | ------- |
+| 🗺️ **Mapa interactivo** | Explora más de 30 spots de calistenia con fotos y detalles. |
+| 📍 **Localización refinada** | Solicitud de permisos optimizada y consumo mínimo de batería. |
+| 🎨 **UI pulida** | Ajustes de color, tipografía y transiciones más fluidas. |
+
+---
+
+## 📦 Versión 1.6.8 · 10 jul 2025
+| Mejora | Detalle |
+| ------ | ------- |
+| 🍽️ **Detección de alimentos 2.0** | Mejor precisión en macros y sellos de advertencia. |
+| 🚀 **Actualización silenciosa OTA** | Parche instantáneo sin pasar por la tienda. |
+
+---
+
+<div align="center">
+
+### ¿Sugerencias o problemas?
+**[Envíanos feedback](mailto:matias.troncoso.campos@gmail.com)** ·  
+**[Síguenos en Instagram](https://www.instagram.com/ecoquerai)** para ver las próximas sorpresas.
+
+</div>
