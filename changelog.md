@@ -1,3 +1,8 @@
+---
+title: "Novedades de EcoquerAI"
+layout: default             
+---
+
 # Novedades de EcoquerAI
 
 ## 1.6.9 · 24 jul 2025
