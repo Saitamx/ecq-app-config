@@ -16,6 +16,16 @@ Para actualizar, abre la app · **Menú → Información → Actualizar**.
 
 ---
 
+## 📌 Versión 1.7.1 · 01 ago 2025
+
+| Mejora | Detalle |
+| ------ | ------- |
+| 🔧 **Correcciones de estabilidad** | Mejoras en la gestión de actualizaciones y transiciones de pantalla. |
+| 🚀 **Optimización de rendimiento** | Reducción de tiempos de carga y mejor experiencia de usuario. |
+| 🎯 **Mejoras en onboarding** | Transiciones más suaves para nuevas instalaciones. |
+
+---
+
 ## 📌 Versión 1.6.9 · 24 jul 2025
 
 | Mejora | Detalle |
