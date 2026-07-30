@@ -16,6 +16,16 @@ Para actualizar, abre la app · **Menú → Información → Actualizar**.
 
 ---
 
+## 📌 Versión 1.8.0 · 29 jul 2026
+
+| Mejora | Detalle |
+| ------ | ------- |
+| 📅 **Agenda Biobío** | Eventos, clases, talleres, spots y comunidades en un solo lugar. |
+| 🔒 **Cumplimiento Play** | Privacidad con retención de datos, Photo Picker sin permisos amplios de medios, Data Safety actualizado. |
+| 🧭 **Exploración** | Mapa, comunidades y Quer para descubrir qué hacer esta semana. |
+
+---
+
 ## 📌 Versión 1.7.1 · 01 ago 2025
 
 | Mejora | Detalle |
