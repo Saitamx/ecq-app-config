@@ -5,6 +5,7 @@
 | **Estado ecosistema** | **MANTENER** — cambios raros a propósito |
 | **Prioridad 90 días** | Solo tocar al forzar min version en tiendas |
 | **Documento maestro** | [`../README.md`](../README.md) |
+| **EDD Status (Fase 1)** | [`README_EDD_STATUS.md`](./README_EDD_STATUS.md) |
 
 > Config **remota pública** (GitHub Pages) para force-update de la app nativa. Julio 2026.  
 > No hay servidor: solo JSON estático.
