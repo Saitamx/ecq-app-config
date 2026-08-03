@@ -22,15 +22,14 @@
 ```json
 {
   "minAndroidVersion": "1.8.0",
-  "minIosVersion": "1.7.2",
+  "minIosVersion": "1.8.0",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.ecoquerai",
   "iosStoreUrl": "https://apps.apple.com/cl/app/ecoquerai/id6744342819"
 }
 ```
 
-Play Store live: **1.8.0**. App Store público aún **1.7.2** (1.8.0 pendiente).  
-`min*` = versión **mínima permitida** (bloquea más viejas), no la última publicada.  
-iOS se sube a `1.8.0` cuando esa versión esté live en App Store.
+Play Store y App Store live: **1.8.0**.  
+`min*` = versión **mínima permitida** (bloquea más viejas), no la última publicada.
 
 ---
 
@@ -50,7 +49,7 @@ iOS se sube a `1.8.0` cuando esa versión esté live en App Store.
 3. Verificar URL live (cache CDN: esperar unos minutos).
 4. Probar con un build viejo o mock de versión.
 
-**Cuidado:** subir `minAndroidVersion` a `1.8.0` obliga a todos en Android por debajo de 1.8.0 a ir a Play Store.
+**Cuidado:** subir `min*` a `1.8.0` obliga a todos por debajo de esa versión a ir a la tienda.
 
 ---
 
