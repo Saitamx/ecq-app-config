@@ -62,7 +62,7 @@ Costo ~0 (Pages). Payload ~226 bytes. CDN puede atrasar minutos — documentado.
 
 ## H. Mejoras
 
-**P0:** fix logo changelog (`logo.png` vs `ecq-logo.png`) · checklist post-release.
+**P0:** ~~fix logo changelog (`logo.png` vs `ecq-logo.png`)~~ ✅ 2026-08-05 · checklist post-release.
 
 **P1:** GitHub Action validate JSON/semver · alinear docs binario/OTA vs mins.
 

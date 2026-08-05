@@ -5,7 +5,7 @@ layout: default
 
 <div align="center">
 
-<img width="120" src="https://raw.githubusercontent.com/Saitamx/ecq-app-config/main/logo.png" alt="EcoquerAI logo">
+<img width="120" src="https://raw.githubusercontent.com/Saitamx/ecq-app-config/main/ecq-logo.png" alt="EcoquerAI logo">
 
 # 🚀 Historial de cambios
 
